@@ -51,23 +51,15 @@ python scientific_calculator.py
 * Mathematical expressions are processed using Python’s built-in `eval()` with restricted scope for safety.
 * Handles scientific expressions by mapping symbols (`π`, `√`, `!`, etc.) to appropriate `math` functions.
 
----
+
 
 ## 📁 File Structure
 
-```
+
 scientific_calculator.py   # Main Python GUI script
-```
-
----
-
-
----
 
 ## 📄 License
 
 This project is licensed under the MIT License — feel free to use and modify it for your own needs.
-
----
 
 Would you like me to save this as a `README.md` file for you?
