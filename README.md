@@ -61,11 +61,6 @@ scientific_calculator.py   # Main Python GUI script
 
 ---
 
-## 👨‍💻 Author
-
-**Dibyaranjan Jena**
-Passionate about Python, AI, and clean UI design.
-If you find this useful, consider starring or contributing!
 
 ---
 
