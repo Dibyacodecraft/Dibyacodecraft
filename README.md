@@ -1,65 +1,26 @@
+👋 Hi, I'm Dibya!
+Welcome to @Dibyacodecraft — a space where I craft code with creativity and purpose.
 
- 🧮  Scientific Calculator
-A stylish, fully functional **Scientific Calculator GUI** built using Python's **Tkinter** library. This calculator supports basic arithmetic as well as advanced scientific operations, all wrapped in a modern, dark-themed interface.
+💻 I'm passionate about building intelligent systems, modern UIs, and real-world solutions using:
 
- 🚀 Features
+Python, JavaScript, React
 
-* ✨ **Clean UI**: Sleek dark mode design with colorful button categorization.
-* ➕ **Basic Math**: Addition, Subtraction, Multiplication, Division.
-* 📐 **Scientific Functions**:
+AI/ML, Automation, APIs
 
-  * Trigonometric: `sin`, `cos`, `tan`
-  * Logarithmic: `log` (base 10), `ln` (natural log)
-  * Exponential: `e`, `x²`, `π`, `√`
-  * Factorial: `n!`
-* 🧠 **Smart Input Parsing**:
+Cybersecurity & Ethical Hacking
 
-  * Allows nested expressions and operator chaining.
-  * Safe `eval` execution with math module restrictions.
-* 🔄 **Functional Buttons**:
+Full-stack Web Development
 
-  * Clear (`C`)
-  * Backspace (`⌫`)
-  * Parentheses (`()`)
-  * Equals (`=`)
+🚀 Projects include:
 
-🛠️ Installation & Usage
+Smart voice assistants
 
- Prerequisites
+AI-powered trading tools
 
-* Python 3.x
-* Tkinter (usually comes pre-installed with Python)
+Developer portfolios
 
-### Run the Calculator
+Automation workflows with n8n
 
-bash
-python scientific_calculator.py
-```
+🛠 Always exploring new technologies and building tools that make life easier, smarter, and more secure.
 
----
-
-## 📸 UI Preview
-
-> **Brand**: *Dibya*
-> Modern layout with button hover effects and categorized colors for ease of use.
-
----
-
-## 🧠 Internals
-
-* Uses `tkinter` for GUI
-* Mathematical expressions are processed using Python’s built-in `eval()` with restricted scope for safety.
-* Handles scientific expressions by mapping symbols (`π`, `√`, `!`, etc.) to appropriate `math` functions.
-
-
-
-## 📁 File Structure
-
-
-scientific_calculator.py   # Main Python GUI script
-
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use and modify it for your own needs.
-
-Would you like me to save this as a `README.md` file for you?
+🔗 Check out my repositories and feel free to connect or collaborate!
